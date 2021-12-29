@@ -1,1 +1,0 @@
-# imagopedia-bundle
